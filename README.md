@@ -1,0 +1,1 @@
+# latihan-strukdat-1
